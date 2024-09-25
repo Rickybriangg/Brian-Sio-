@@ -1,11 +1,11 @@
-# ------Brian-Sio----
+
 <!-- Your header -->
-<h1 align="center">Hi there, I'm Akash Chowdhury 👋</h1>
-<h3 align="center"><pre>I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.</pre></h3> <br>
+<h1 align="center">Hi there, I'm Brian Sio  👋</h1>
+<h3 align="center"><pre>I'm currently pursuing my B. Soc. Sci. in Economics & Statistics from University of Nairobi .</pre></h3> <br>
 
 <!-- Your introduction -->
 <p align="center">
-   I'm a Programmer💻, Developer👨‍💻  who loves building cool stuff with code.<br> <br>
+   I'm a Data Scientist 💻, Data Analyst 👨‍💻  who loves solving problem using Data.<br> <br>
   <img src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif" width="30%">
 </p> <br>
 
