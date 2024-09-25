@@ -14,10 +14,10 @@
 <p align=left"> <img src="https://komarev.com/ghpvc/?username=Akash-Chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="Akash" /> </p>
 
 <!-- Your content -->
-- 👀 Looking for SDE Full Time Roles..
-- 🌱  I’m currently learning Data Structures and Algorithm, Full Stack Web Development.
+- 👀 Looking for Data Science Full Time Roles..
+- 🌱  I’m currently learning Data Engineering , Data Administrator.
 - 👯 I’m looking to collaborate on Open source projects.
-- ✉️  Get in touch with me via email: [<img src="https://img.shields.io/badge/GMAIL-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=red">](mailto:chowdhuryakash950@gmail.com)   <a href="https://www.linkedin.com/in/akash-chowdhury-224467225/"><img src="https://img.shields.io/badge/LINKIDN-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=blue"></a>
+- ✉️  Get in touch with me via email: [<img src="https://img.shields.io/badge/GMAIL-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=red">](mailto:rickybriangg@gmail.com)   <a href="https://https://www.linkedin.com/in/brian-ondieki-94ab62237/"><img src="https://img.shields.io/badge/LINKIDN-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=blue"></a>
 - 😄 Pronouns: He/Him
 
 ### 💪 Languages which I can't speak but I can write
@@ -34,7 +34,7 @@
 ![JavaScript](https://img.shields.io/badge/java&nbsp;Script-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![SCSS](https://img.shields.io/badge/SCSS-%23CD6799.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/SCSS-%23CD6799.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
 
 
 <hr />
@@ -46,21 +46,26 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) &nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)&nbsp;
-![Vite](https://img.shields.io/badge/Vite-%23007ACC.svg?style=for-the-badge&logo=Vite&logoColor=white)&nbsp;
-![MUI](https://img.shields.io/badge/MUI-%23092E20.svg?style=for-the-badge&logo=MUI&logoColor=white) &nbsp;
-![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%233197CE.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;
-![Socket.io](https://img.shields.io/badge/-Socket.io-F6D860?style=for-the-badge&logo=Socket.io&logoColor=010101)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwind&nbsp;css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)&nbsp;
 ![RestApi](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=restapi&logoColor=white)
 
 
 
 <hr />
 
+### 🚀 Machine learning libraries
+
+<br/>
+
+![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) &nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) &nbsp;
+![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white) &nbsp;
+![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
+![RestApi](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=restapi&logoColor=white)
+
+
+
+<hr />
 ### 🏪 Storaging things & Servers ( except knowledge:) )
 
 <br />
